@@ -10,7 +10,7 @@ first, u need to setup Windows Server 2019 with this parameters
 "netbios_name": "SEVENKINGDOMS"
 
 
-![img/test.png](test.png)
+![./img/test.png](test.png)
 
 
 next, run ps scripts in this order
