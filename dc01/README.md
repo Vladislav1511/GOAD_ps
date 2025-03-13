@@ -9,6 +9,7 @@ first, u need to setup Windows Server 2019 with this parameters
  "domain" : "sevenkingdoms.local",
 "netbios_name": "SEVENKINGDOMS"
 
+next u need to enable RDP on this server via "local server"
 
 ![](test.png)
 

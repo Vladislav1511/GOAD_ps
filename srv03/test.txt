@@ -1,0 +1,8 @@
+PS C:\Users\Administrator\Documents> .\esc1.ps1
+Creating new certificate template: ESC1...
+New-ADObject : Множественные значения были заданы для атрибута, которые должен иметь только единственное значение
+C:\Users\Administrator\Documents\esc1.ps1:27 знак:1
++ New-ADObject -Name $jsonContent.name `
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (cn=ESC1,CN=Cert...=essos,DC=local:String) [New-ADObject], ADException
+    + FullyQualifiedErrorId : ActiveDirectoryServer:8321,Microsoft.ActiveDirectory.Management.Commands.NewADObject
